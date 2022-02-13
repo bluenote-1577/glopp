@@ -20,7 +20,7 @@ Given
 ```
 git clone https://github.com/bluenote-1577/glopp
 cd glopp
-git checkout flow
+#git checkout flow <- development branch.
 cargo build --release
 ./target/release/glopp -h
 ```
